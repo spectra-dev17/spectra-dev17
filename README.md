@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning Python<br>💬 Ask me about Flask/Django
+🔭 I’m currently working on Repture<br>🌱 I’m currently learning Python<br>💬 Ask me about Flask/Django
 
 
 ## 🌐 Socials:
